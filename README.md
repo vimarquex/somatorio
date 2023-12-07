@@ -37,10 +37,6 @@ git clone https://github.com/vimarquex/somatorio.git
 
 Acesse o Diretório do Projeto:
 
-Digite no prompt de comando Windows ou Linux:
-
-
-    cd nome-do-repositorio
 
     Abra o Arquivo HTML no Navegador:
     Abra o arquivo somatorio.html em seu navegador da web. Você pode fazer isso diretamente clicando no arquivo.
