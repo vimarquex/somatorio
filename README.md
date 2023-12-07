@@ -7,7 +7,7 @@ Como Executar
 
 Siga os passos abaixo para baixar o projeto do GitHub e executar o script Node.js:
 
-# Clone o Repositório: ( no prompt de comando Windows ou Linux )
+# Clone o Repositório: (prompt de comando Windows ou Linux )
 
 git clone https://github.com/vimarquex/somatorio.git
 
@@ -18,7 +18,7 @@ cd nome-do-repositorio
 Execute o Script:
 Certifique-se de ter o Node.js instalado em seu sistema. Se não, você pode baixá-lo em nodejs.org.
 
-No prompt de comando Windows ou Linux  digite 
+Digite no prompt de comando Windows ou Linux
 
     node somatorio.js 10
 
@@ -30,14 +30,14 @@ Como Executar
 
 A versão HTML pode ser executada diretamente em um navegador da web. Siga os passos abaixo:
 
-     Clone o Repositório: ( no prompt de comando Windows ou Linux )
+# Clone o Repositório: (prompt de comando Windows ou Linux )
 
 
 git clone https://github.com/vimarquex/somatorio.git
 
 Acesse o Diretório do Projeto:
 
-No prompt de comando Windows ou Linux digite:
+Digite no prompt de comando Windows ou Linux:
 
 
     cd nome-do-repositorio
