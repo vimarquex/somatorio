@@ -1,4 +1,4 @@
-# somatorio
+# Somatorio
 Calculadora de Somatório
 
 Este projeto contém duas versões de um simples script para calcular o somatório de valores inteiros divisíveis por 3 ou 5, abaixo de um número fornecido.
@@ -7,42 +7,38 @@ Como Executar
 
 Siga os passos abaixo para baixar o projeto do GitHub e executar o script Node.js:
 
-    Clone o Repositório:
-
-    bash
+    Clone o Repositório: ( no prompt de comando Windows ou Linux )
 
 git clone https://github.com/vimarquex/somatorio.git
 
 Acesse o Diretório do Projeto:
-
-bash
 
 cd nome-do-repositorio
 
 Execute o Script:
 Certifique-se de ter o Node.js instalado em seu sistema. Se não, você pode baixá-lo em nodejs.org.
 
-bash
+No prompt de comando Windows ou Linux  digite 
 
     node somatorio.js 10
 
     Substitua 10 pelo número desejado.
-=====================================================================================================
+====================================================================
 
 Versão HTML (somatorio.html)
 Como Executar
 
 A versão HTML pode ser executada diretamente em um navegador da web. Siga os passos abaixo:
 
-    Clone o Repositório:
+     Clone o Repositório: ( no prompt de comando Windows ou Linux )
 
-    bash
 
 git clone https://github.com/vimarquex/somatorio.git
 
 Acesse o Diretório do Projeto:
 
-bash
+No prompt de comando Windows ou Linux digite:
+
 
     cd nome-do-repositorio
 
