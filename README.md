@@ -7,11 +7,11 @@ Como Executar
 
 Siga os passos abaixo para baixar o projeto do GitHub e executar o script Node.js:
 
-    Clone o Repositório: ( no prompt de comando Windows ou Linux )
+# Clone o Repositório: ( no prompt de comando Windows ou Linux )
 
 git clone https://github.com/vimarquex/somatorio.git
 
-Acesse o Diretório do Projeto:
+# Acesse o Diretório do Projeto:
 
 cd nome-do-repositorio
 
